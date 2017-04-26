@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.2'
 gem 'sqlite3'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
+
+gem 'autoprefixer-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
